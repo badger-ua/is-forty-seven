@@ -1,6 +1,6 @@
 {
   "name": "is-forty-seven",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Checks if provided value is 47",
   "license": "ISC",
   "author": "Yurii Yesipov",
