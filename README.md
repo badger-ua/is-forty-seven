@@ -1,5 +1,9 @@
 # is-forty-seven
 
+[![npm version](https://img.shields.io/npm/v/is-forty-seven.svg)](https://www.npmjs.com/package/is-forty-seven)
+[![npm downloads](https://img.shields.io/npm/dm/is-forty-seven.svg)](https://www.npmjs.com/package/is-forty-seven)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
 A simple, lightweight library that checks if a provided value is 47.
 
 ## Installation
