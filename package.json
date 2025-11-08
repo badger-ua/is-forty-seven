@@ -1,0 +1,49 @@
+{
+  "name": "is-forty-seven",
+  "version": "1.0.0",
+  "description": "Checks if provided value is 47",
+  "license": "ISC",
+  "author": "Yurii Yesipov",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "is-forty-seven",
+    "forty-seven",
+    "is-47",
+    "47",
+    "forty-seven-validator",
+    "check-47",
+    "is-47-check",
+    "validate-47",
+    "47-check",
+    "47-validator",
+    "check-forty-seven",
+    "validate-forty-seven",
+    "forty-seven-check",
+    "is-number-47",
+    "number-47",
+    "equals-47",
+    "equal-47",
+    "is-equal-47",
+    "47-equals",
+    "47-equality",
+    "check-if-47",
+    "verify-47",
+    "47-verification",
+    "is-value-47",
+    "value-is-47",
+    "47-value",
+    "compare-47",
+    "47-comparison",
+    "match-47",
+    "47-match"
+  ],
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
