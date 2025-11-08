@@ -1,6 +1,6 @@
 {
   "name": "is-forty-seven",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "Checks if provided value is 47",
   "license": "ISC",
   "author": "Yurii Yesipov",
@@ -15,6 +15,7 @@
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "readme": "README.md",
   "files": [
     "dist",
     "README.md",
