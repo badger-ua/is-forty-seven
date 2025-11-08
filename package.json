@@ -1,9 +1,17 @@
 {
   "name": "is-forty-seven",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Checks if provided value is 47",
   "license": "ISC",
   "author": "Yurii Yesipov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badger-ua/is-forty-seven.git"
+  },
+  "homepage": "https://github.com/badger-ua/is-forty-seven#readme",
+  "bugs": {
+    "url": "https://github.com/badger-ua/is-forty-seven/issues"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
